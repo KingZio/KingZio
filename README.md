@@ -21,5 +21,5 @@
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-bedge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-bedge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-bedge&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-bedge&logo=Cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-4E3188?style=for-the-bedge&logo=Cplusplus&logoColor=white"/>
   </div>
