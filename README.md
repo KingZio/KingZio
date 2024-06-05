@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-bedge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-bedge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-bedge&logo=React&logoColor=white"/>
+    <p>Nextjs </p>
+    <p>SpringBoot </p>
+    <p>Java </p>
+    <p>Cloud Security</p>
   </div>
  
 <p><strong>plan to learn</strong></p>
