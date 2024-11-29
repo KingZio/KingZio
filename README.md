@@ -28,6 +28,16 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
+<div align="center">
+  
+  ### 🔧 Development Tools 🔧
+  
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
 <br>
 
 <div align="center">
@@ -53,7 +63,20 @@
   🔹 Django              ▰▰▱▱▱▱▱▱▱▱  20%
   🔹 Web Hacking         ▰▰▰▱▱▱▱▱▱▱  30%
   🔹 System Hacking      ▰▰▱▱▱▱▱▱▱▱  20%
+  🔹 WebSocket           ▰▱▱▱▱▱▱▱▱▱  10%
+  🔹 Flutter             ▰▱▱▱▱▱▱▱▱▱  10%
   ```
+</div>
+
+<div align="center">
+  
+  ### 📫 Let's Connect! 📫
+  
+  <a href="https://discord.com/users/chltjdbs486">
+    <img src="https://img.shields.io/badge/Discord-chltjdbs486-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  
+  > 💬 Looking for development collaborators! Feel free to add me on Discord!
 </div>
 
 <div align="center">
