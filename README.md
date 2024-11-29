@@ -83,4 +83,6 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom" />
 </div>
 
+![Snake animation](https://github.com/{your-username}/{your-username}/blob/output/github-contribution-grid-snake.svg)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
