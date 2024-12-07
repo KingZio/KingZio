@@ -72,7 +72,7 @@
   
   ### 📫 Let's Connect! 📫
   
-  <a href="https://discord.com/users/chltjdbs486">
+  <a href="https://discord.com/users/nangman._.boy">
     <img src="https://img.shields.io/badge/Discord-chltjdbs486-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   
